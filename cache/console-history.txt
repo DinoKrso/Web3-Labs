@@ -1,0 +1,33 @@
+0
+exit
+await relay.addToWhitelist("0xa64E3108B02dbf0F087ce33d0416B5F00ac84882")
+ await relay.addToWhitelist("signer address")
+relay = await Relay.attach("0xa2541Bd645619777c85E79878882499d1c53A72f")
+const Relay = await ethers.getContractFactory("Relay")
+0
+exit
+await contract.getAssignedSigner()
+const contract = await ethers.getContractAt("ExamLedger", "0xa4a9F86A195750468Eb917119Aa23d46c9dce8fd")
+const contract == await ethers.getContractAt("ExamLedger", "0xa4a9F86A195750468Eb917119Aa23d46c9dce8fd")
+await contract.getAssignedSigner()
+const contract = await ethers.getContractAt("ExamLedger", "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512")
+await contract.getAssignedSigner()
+const contract = await ethers.getContractAt("ExamLedger", "0xa4a9F86A195750468Eb917119Aa23d46c9dce8fd")
+await contract.getAssignedSigner()
+const contract = await ethers.getContractAt("ExamLedger", "0xa4a9F86A195750468Eb917119Aa23d46c9dce8fd")
+const contract = await ethers.getContractAt("ExamLedger, "0xa4a9F86A195750468Eb917119Aa23d46c9dce8fd")
+const contract = await ethers.getContractAt("ExamLedger, "0x5fBbb91E6010c874478e1c007AF82F031a9fDe94")
+(await pizza.slicesLeft()).toString()
+await pizza.eatSlice()
+const pizza = await Pizza.attach("0x73e6cbA28cAa48977dF8EBE405895f66915cB542")
+const Pizza = await ethers.getContractFactory("PizzaUUPS")
+npx hardhat console --network sepolia
+exit
+clear
+quit
+que
+exit
+const Pizza = await ethers.getContractFactory("PizzaUUPS")
+await pizza.eatSlice()
+const pizza = await Pizza.attach("0x73e6cbA28cAa48977dF8EBE405895f66915cB542")
+const Pizza = await ethers.getContractFactory("PizzaUUPS")
